@@ -7,6 +7,7 @@ import csv
 from datetime import datetime
 
 
+
 # Utility function to load face data
 def load_encodings(data_file="face_data.pkl"):
     try:
